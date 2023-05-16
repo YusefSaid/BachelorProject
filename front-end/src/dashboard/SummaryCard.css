@@ -1,0 +1,43 @@
+.summaryCardContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #303841;
+    border-radius: 5px;
+    padding: 20px;
+    min-width: 15%;
+    margin: 10px;
+  }
+ 
+  .summaryCardContent {
+    display: flex;
+    flex-direction: column;
+    color: #D9DFE9;
+  }
+ 
+  .summaryCardTitle {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+ 
+  .summaryCardValue {
+    font-size: 24px;
+  }
+ 
+  .summaryCardIconAndDivider {
+    display: flex;
+    align-items: center;
+  }
+ 
+  .summaryCardIcon {
+    padding-right: 20px;
+  }
+ 
+  .summaryCardDivider {
+    height: 100%;
+    border-left: 2px solid #D9DFE9;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+ 

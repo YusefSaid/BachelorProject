@@ -1,0 +1,28 @@
+{
+    "Live Processes": {
+      "totalUsers": 1200,
+      "activeUsers": 850,
+      "chartData": [
+        { "label": "January", "value": 100 },
+        { "label": "February", "value": 120 },
+        { "label": "March", "value": 150 }
+      ],
+      "tableData": [
+        { "id": 1, "frequency": 2, "duration": 60, "name": "FC Reports", "description": "Create and send out the monthly forecast reports to a set of predefined recievers" },
+        { "id": 2, "frequency": 3, "duration": 120, "name": "Automatic Replenishment", "description": "Enable automatic replenishment by confirming demand orders in Didac"  }
+      ]
+    },
+    "Development Processes": {
+      "totalUsers": 900,
+      "activeUsers": 700,
+      "chartData": [
+        { "label": "April", "value": 180 },
+        { "label": "May", "value": 100 },
+        { "label": "June", "value": 220 }
+      ],
+      "tableData": [
+        { "id": 3, "frequency": 1, "duration": 80, "name": "Payment Proposal SAP", "description": "Create a payment propsal with the data coming from SAP and email to Nordic Accontant"  },
+        { "id": 4, "frequency": 2, "duration": 20, "name": "Devices monitoring", "description": "Create automatic incidents when device status changes from the monitoring system"  }
+      ]
+    }
+  }

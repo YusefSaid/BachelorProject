@@ -1,0 +1,50 @@
+.add-user-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fcfcfc;
+    width: 800px;
+    max-width: 95%;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+ 
+  .add-user-page h1 {
+    color: #303841;
+    margin-bottom: 20px;
+  }
+ 
+  .add-user-page form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+ 
+  .add-user-page input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+ 
+  .add-user-page button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #303841;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+ 
+  .add-user-page button:hover {
+    background-color: #3a4750;
+  }
+ 
+  .add-user-page p {
+    color: red;
+    margin-top: 10px;
+  }

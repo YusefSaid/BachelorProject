@@ -1,0 +1,85 @@
+.dashboardContainer {
+    background-color: #fcfcfc;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.summaryCardsContainer {
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+
+.sheetsContainer {
+display: flex;
+gap: 20px;
+justify-content: flex-end;
+margin-bottom: 20px;
+}
+
+.sheetButton {
+border: none;
+background-color: transparent;
+cursor: pointer;
+font-size: 16px;
+font-weight: bold;
+margin-right: 10px;
+border-bottom: 2px solid transparent;
+}
+
+.headerContainer {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.divider {
+    border: none;
+    border-top: 2px solid #ccc; 
+
+    margin-bottom: 20px;
+    width: 100%; 
+    border-radius: 2px;
+  }
+
+.graphsContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.graphsContainer > div {
+  flex: 1;
+  max-width: calc(50% - 1rem);
+}
+
+table {
+  border-collapse: collapse;
+  width: 95%;
+  align-self: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #303841;
+  color: #D9DFE9;
+  font-weight: bold;
+  text-align: center;
+}

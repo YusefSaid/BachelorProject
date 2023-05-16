@@ -1,0 +1,20 @@
+.main-home-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+
+.sticky-div {
+    width: 20%;
+    background-color: #fcfcfc;
+    box-shadow: 4px 0 6px rgba(0, 0, 0, 0.1);
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0; /* Add this line */
+    border-left: 1px solid rgb(223, 222, 222);
+    padding-left: 40px;
+    padding-top: 3%;
+    padding-bottom: 10px;
+    min-height: 100vh;
+}
