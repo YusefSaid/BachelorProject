@@ -1,5 +1,7 @@
 # Nordic Automation
 
+This is an web application, for monitoring and organizing automation tools for automated processes, It was made by Daniel Kayyali Fygn and Yusef Said as part of a Bachelor project spring 2023.
+
 ## Tech Stack
 
 Backend: FastAPI
