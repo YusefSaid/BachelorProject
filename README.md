@@ -1,6 +1,6 @@
 # Nordic Automation
 
-This is an web application, for monitoring and organizing automation tools for automated processes, It was made by Daniel Kayyali Fygn and Yusef Said as part of a Bachelor project spring 2023.
+Nordic Automation is the name of the web application, a monitoring tools for automated processes, a project given to us by Continental Dekk. It was made by Daniel Kayyali Fyhn and Yusef Said, as part of a Bachelor project spring 2023.
 
 ## Tech Stack
 
