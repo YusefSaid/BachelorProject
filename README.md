@@ -1,21 +1,20 @@
-Webapplikasjon for Automatiseringsverktøy med Integrert Chatbot
+Web Application for Automation Tools with Integrated Chatbot
 
-Denne webapplikasjonen har blitt utviklet for å organisere ulike automatiseringsverktøy, med inkludering av en integrert chatbot. Formålet med applikasjonen er å overvåke og styre utførelsen av forskjellige automatiseringsprosesser. Oppdraget ble tildelt oss av Continental Dekk. Oppgavebeskrivelsen strakte seg over ca. 3-4 sider og fungerte som vårt referansepunkt. Arbeidet fulgte en Iterativ Waterfall modell med begrenset kommunikasjon med klienten. Klienten hadde klare krav i oppgavebeskrivelsen og spesifikke ønsker for webapplikasjonens funksjonalitet.
+This web application has been developed to organize various automation tools, including an integrated chatbot. The purpose of the application is to monitor and control the execution of different automation processes. The task was assigned to us by Continental Tires. The task description spanned approximately 3-4 pages and served as our reference point. The work followed an Iterative Waterfall model with limited communication with the client. The client had clear requirements in the task description and specific desires for the functionality of the web application.
 
-Vi lyktes med å oppfylle de fleste kravene og leverte til slutt en velfungerende webapplikasjon i tråd med klientens ønsker. Den endelige applikasjonen har de nødvendige funksjonene for å sikre drift og legge til rette for fremtidig utvikling.
+We succeeded in fulfilling most of the requirements and ultimately delivered a well-functioning web application in line with the client's wishes. The final application possesses the necessary features to ensure operations and facilitate future development.
 
-I løpet av prosjektet hadde jeg hovedansvaret for flere oppgaver:
+During the project, I had primary responsibility for several tasks:
 
-Prosjektledelse: Jeg fungerte som prosjektleder, tok ansvar for administrering og organisering av prosjektutførelsen. Dette inkluderte planlegging av møter med veileder og andre involverte aktører for å sikre gjennomføringen.
+1. Project Management: I acted as the project manager, assuming responsibility for the administration and organization of project execution. This encompassed planning meetings with mentors and other involved parties to ensure successful completion.
 
-Utvikling av Frontend og Backend: Jeg var involvert i både utviklingen av front- og backend-delen av applikasjonen, med fokus på å implementere de nødvendige funksjonene.
+2. Frontend and Backend Development: I was involved in both frontend and backend development of the application, focusing on implementing essential functionalities.
 
-Rapportering og Dokumentasjon: Jeg hadde ansvar for å rapportere fremdrift og dokumentere viktige aspekter av prosjektet. Dette inkluderte også strukturering av rapportoppsett.
+3. Reporting and Documentation: I was accountable for progress reporting and documenting key aspects of the project. This also involved structuring the report layout.
 
-Arkitekturdesign: Jeg designet arkitekturen for både frontend og backend for å sikre en solid og skalerbar løsning.
+4. Architecture Design: I designed the architecture for both the frontend and backend to ensure a robust and scalable solution.
 
-I prosjektet var vi to personer som samarbeidet tett. Vi fikk en karakter C for prosjektet, og det ble godkjent. Hele prosjektet er tilgjengelig på min personlige Github-profil for ytterligere referanse.
-
+In the project, there were two of us working closely together. We received a grade of C for the project, which was approved. The entire project is available on my personal GitHub profile for further reference.
 
 
 # Nordic Automation
